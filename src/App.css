@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fcf8f2; /* Color crema cálido de fondo */
+  color: #1c1917;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+.mars-app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.mars-content {
+  flex: 1;
+}
